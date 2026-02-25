@@ -102,6 +102,7 @@ Result Display
 ### 1️⃣ Clone Repository
 
 git clone https://github.com/Perkywarcheif/intellisql.git
+
 cd intellisql
 
 ---
@@ -110,6 +111,7 @@ cd intellisql
 
 
 python -m venv venv
+
 Activate Virtual Environment
 
 ---
